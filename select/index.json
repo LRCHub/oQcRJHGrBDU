@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大罪",
+  "base_artist": "罪十罰",
+  "createdAt": "2026-02-07T04:26:03.665377Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大罪",
+      "artist": "罪十罰",
+      "has_synced": false,
+      "path": "select/pl_01_大罪_罪十罰.txt"
+    }
+  ]
+}
